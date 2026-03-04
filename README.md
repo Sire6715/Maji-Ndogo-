@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project presents a multi-page Power BI dashboard analyzing the water crisis in the fictional nation of **Maji Ndogo**, covering:
 
@@ -18,7 +18,7 @@ The goal is to identify the most critical interventions needed to bring **basic 
 
 ---
 
-## 📊 Dashboard Pages
+## Dashboard Pages
 
 ### Page 1 — National Improvement Plan Summary
 
