@@ -163,7 +163,7 @@ Examines criminal incidents recorded at or near water collection sites, disaggre
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ├── README.md
@@ -183,7 +183,7 @@ Examines criminal incidents recorded at or near water collection sites, disaggre
 
 ---
 
-## 🔑 Key Insights
+## Key Insights
 
 1. **Water contamination is the norm, not the exception** — 71.7% of sources are contaminated, split between chemical and biological pollution requiring different treatment approaches.
 
@@ -199,7 +199,7 @@ Examines criminal incidents recorded at or near water collection sites, disaggre
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - **Power BI Desktop** — data modeling, DAX, and dashboard creation
 - **SQL** — underlying data querying and transformation
